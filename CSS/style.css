@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+ 
+}
+header{
+    background-color:#AA1803;
+    padding: 20px;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-family: Snell Roundhand;
+}
+nav{display: flex;
+justify-content: space-around;}
+h1{
+  font-family: Snell Roundhand; 
+  text-align: center;
+  font-size: 50px;
+}
+footer{
+    background-color:#AA1803 ;
+    padding: 20px;
+    color: white;
+    font-weight: 900;
+    text-align: center;
+
+}
+div{background-color: gray;
+border: 2px solid black;
+width: 200px;
+padding: 20px;
+text-align: center;
+font-size: 25px;
+font-weight: 900;}
+
+span{color:#AA1803 ;}
+.block{padding: 20px;
+display: inline-block;}
+main{margin: 20px;}
+h2{
+   font-family: Snell Roundhand; 
+  text-align: center;
+  font-size: 50px; 
+}
+p{
+  font-size: 25px; 
+}
+.img1{
+  width: 200px;
+  height: 200px;
+}
+h3{text-align: center;}
